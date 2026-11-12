@@ -26,6 +26,7 @@
         "2. Train a Multilayer Perceptron (MLP) using Scikit-learn.\n",
         "3. Compare different activation functions.\n",
         "\n",
+        "\n",
         "**Libraries:** NumPy, Matplotlib and Scikit-learn\n",
         "\n",
         "Run the cells one by one in Google Colab or Jupyter Notebook."
