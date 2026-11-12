@@ -2,16 +2,6 @@
   "cells": [
     {
       "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/lavatekiran153-create/ML-Experiments/blob/main/Basic_Collaborative_Filtering_Experiment.ipynb%20kitan%20lavate\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
       "id": "24e5ffc5",
       "metadata": {
         "id": "24e5ffc5"
@@ -323,8 +313,7 @@
       "version": "3"
     },
     "colab": {
-      "provenance": [],
-      "include_colab_link": true
+      "provenance": []
     }
   },
   "nbformat": 4,
