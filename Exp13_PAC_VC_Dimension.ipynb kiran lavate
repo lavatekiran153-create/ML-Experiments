@@ -38,7 +38,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 6,
+      "execution_count": 1,
       "id": "50e649a2",
       "metadata": {
         "id": "50e649a2"
@@ -61,15 +61,14 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 7,
+      "execution_count": 2,
       "id": "064618da",
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "064618da",
-        "outputId": "786f03a3-4d01-4203-d040-bec777eea91d"
+        "outputId": "7d51fa03-63a2-4023-a45d-d48154581ff6"
       },
       "outputs": [
         {
@@ -112,15 +111,14 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 8,
+      "execution_count": 3,
       "id": "78aeb384",
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "78aeb384",
-        "outputId": "5cb74b09-ce7b-4e87-c13d-ed57e8a3f1a1"
+        "outputId": "22004201-5dd3-415c-a97a-4a711105177d"
       },
       "outputs": [
         {
@@ -158,7 +156,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 9,
+      "execution_count": 4,
       "id": "dda9fa8b",
       "metadata": {
         "colab": {
@@ -166,7 +164,7 @@
           "height": 504
         },
         "id": "dda9fa8b",
-        "outputId": "589eef9d-130d-4e07-8ba0-4cb14c1f8ae1"
+        "outputId": "aeca816a-0751-4b8d-cb6d-dc5331556acf"
       },
       "outputs": [
         {
@@ -217,7 +215,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 10,
+      "execution_count": 5,
       "id": "579be23c",
       "metadata": {
         "colab": {
@@ -225,7 +223,7 @@
           "height": 539
         },
         "id": "579be23c",
-        "outputId": "4a138c8c-1b2f-4032-8148-71c0873d992a"
+        "outputId": "8d90cc25-91f6-4264-cd08-56db57c04fad"
       },
       "outputs": [
         {
